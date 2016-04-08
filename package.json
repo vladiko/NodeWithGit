@@ -1,0 +1,10 @@
+{
+  "name": "NodeWithGit",
+  "version": "0.0.0",
+  "description": "NodeWithGit",
+  "main": "app.js",
+  "author": {
+    "name": "Nata",
+    "email": ""
+  }
+}
