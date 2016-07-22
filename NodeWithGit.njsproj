@@ -38,6 +38,8 @@
     <TypeScriptCompile Include="client\src\mainDirective.ts" />
     <TypeScriptCompile Include="Scripts\typings\node\node.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\node\node.d.ts" />
+    <TypeScriptCompile Include="Scripts\typings\node\node.d.ts" />
+    <TypeScriptCompile Include="Scripts\typings\node\node.d.ts" />
     <TypeScriptCompile Include="server.ts" />
     <Content Include=".gitignore" />
     <Content Include="client\mainDirective.html" />
