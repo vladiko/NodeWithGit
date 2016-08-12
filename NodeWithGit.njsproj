@@ -5,7 +5,7 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
     <Name>NodeWithGit</Name>
     <RootNamespace>NodeWithGit</RootNamespace>
-    <NameOfLastUsedPublishProfile>vladi - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>nodeWithGit - Web Deploy</NameOfLastUsedPublishProfile>
     <Environment>NODE_ENV=development</Environment>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
@@ -45,9 +45,9 @@
     <TypeScriptCompile Include="server.ts" />
     <Content Include=".gitignore" />
     <Content Include="client\mainDirective.html" />
+    <None Include="nodeWithGit - Web Deploy.pubxml" />
     <Content Include="package.json" />
     <Content Include="README.md" />
-    <None Include="vladi - Web Deploy.pubxml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config" />
     <Content Include="bin\ChangeConfig.ps1" />

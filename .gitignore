@@ -4,3 +4,5 @@
 /vladi - Web Deploy.pubxml.user
 /obj
 /node_modules
+*.pubxml
+*.pubxml.user
